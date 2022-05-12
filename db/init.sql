@@ -13,4 +13,6 @@ VALUES ('Malbec', 'Tinto'),
        ('Tempranillo', 'Tinto'),
        ('Syrah', 'Tinto'),
        ('Chenin', 'Blanco'),
-       ('Chardonnay', 'Blanco');
+       ('Chardonnay', 'Blanco'),
+       ('Santa Julia', 'Tinto'),
+       ('Santa Julia', 'Blanco');
